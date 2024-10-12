@@ -1,2 +1,0 @@
-package PRAKTIK_DASAR_KOTLIN
-
